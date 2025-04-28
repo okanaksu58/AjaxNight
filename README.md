@@ -14,6 +14,8 @@
 - Kullanıcı dostu arayüz.
 - Asenkron veri işlemleri.
 
+https://github.com/okanaksu58/AjaxNight/blob/master/AjaxNight.JPG
+
 [Ekran Görüntüsü](https://github.com/okanaksu58/AjaxNight/blob/master/AjaxNight.JPG)
 
 ## Katkıda Bulunma
