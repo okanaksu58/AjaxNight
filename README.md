@@ -14,7 +14,7 @@
 - Kullanıcı dostu arayüz.
 - Asenkron veri işlemleri.
 
-![Ekran Görüntüsü](https://hizliresim.com/az33mp8)
+![Ekran Görüntüsü] (https://hizliresim.com/az33mp8)
 
 ## Katkıda Bulunma
 
